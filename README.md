@@ -2,9 +2,9 @@
 
 A simple Android app built using Java and Firebase that mimics the core login and signup features of WhatsApp. This project demonstrates user authentication using Firebase, View Binding, custom UI layouts, and menu handling.
 
----
 
-## 🔧 Features
+
+##  Features
 
 - Firebase Authentication (Sign Up / Sign In / Sign Out)
 - View Binding for cleaner and safer UI code
@@ -15,10 +15,9 @@ A simple Android app built using Java and Firebase that mimics the core login an
 - Toast notifications for user feedback
 
 
-## 📱 Screenshots
+##  Screenshots
 
-> *(Add screenshots of your app UI here for better presentation)*
->
+
 ### Splash Screen
 ![Screenshot 2025-07-10 093757](https://github.com/user-attachments/assets/5cb46605-9026-4d0d-bd01-084e9e0ed362)
 
